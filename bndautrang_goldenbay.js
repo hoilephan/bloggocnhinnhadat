@@ -114,7 +114,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='http://bit.ly/2gx31Vl' target='_blank'><img src='https://rawgithub.com/hoilephan/bloggocnhinnhadat/master/Golden-bay.gif' width='500px'/><br/>Đất nền Golden Bay </a>Nhà đất Hưng Thịnh<h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='http://bit.ly/2gJFkwq' target='_blank'><img src='https://rawgithub.com/hoilephan/bloggocnhinnhadat/master/Golden-bay.gif' width='500px'/><br/>Đất nền Golden Bay </a>Nhà đất Hưng Thịnh<h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
