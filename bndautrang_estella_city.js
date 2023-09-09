@@ -114,7 +114,7 @@ jQuery(window).load(function() {
 			jQuery(divpopup).attr('id', 'myModal');
 			jQuery(divpopup).attr('class', 'linhnguyen-modal');
 			jQuery( "body" ).append(divpopup);
-			jQuery("#myModal").html("<a href='https://bit.ly/estella-city' target='_blank'><img src='https://rawgithub.com/hoilephan/bloggocnhinnhadat/master/banner-estella-city.gif' width='500px'/><br/>Đất nền Queen Home An Phú </a>Đất nền thương mại <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			jQuery("#myModal").html("<a href='https://bit.ly/estella-city' target='_blank'><img src='https://rawgithub.com/hoilephan/bloggocnhinnhadat/master/banner-estella-city.gif' width='500px'/><br/>Đất nền Estella City </a>Đất nền thương mại <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			jQuery('#myModal').linhnguyen(jQuery('#myModal').data());
 		}
 });
